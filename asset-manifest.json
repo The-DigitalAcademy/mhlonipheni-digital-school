@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mhlonipheni-digital-school/static/css/main.073c9b0a.css",
+    "main.js": "/mhlonipheni-digital-school/static/js/main.e1c3ff2c.js",
+    "index.html": "/mhlonipheni-digital-school/index.html",
+    "main.073c9b0a.css.map": "/mhlonipheni-digital-school/static/css/main.073c9b0a.css.map",
+    "main.e1c3ff2c.js.map": "/mhlonipheni-digital-school/static/js/main.e1c3ff2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e1c3ff2c.js"
+  ]
+}
